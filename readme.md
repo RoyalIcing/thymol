@@ -7,6 +7,8 @@
 
 ### Latency:
 
+Loaded from Tasmania in southern Australia.
+
 ~~~
 $ httpstat "https://qz4t52v34f7nbojf5pbuspbpka0gihlj.lambda-url.us-east-1.on.aws/"
 Connected to 52.45.100.6:443
